@@ -147,8 +147,11 @@ Voce vai me ajudar a montar um treino ideal, baseado nas 04 variaveis abaixo:
 
 # Area de Variaveis
 {{biotipo}} = Endomorfo
+
 {{frequencia}} = 5 dias
+
 {{tipo}} = Funcional, Peso Livre, Cardio, HIIT
+
 {{objetivo}} = Condicionamento
 
 
