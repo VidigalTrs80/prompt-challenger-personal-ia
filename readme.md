@@ -12,7 +12,7 @@
 
 <p align="center">
   <h3 align="center">🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal</h3>
-Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
+Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos e objetivo final dos treinos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
 O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 </p>
 
@@ -112,7 +112,7 @@ A quarta regra é determinar o melhor treinamento visando atender o objetivo. De
 
 | **Imagem**                                                     | **Objetivo**        | **Comentário**                                                                          |
 | -------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------- |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | Perda de Peso       | Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.    |
+| <img src=".github/assets/coracao.png" width="50" height="50">  | Perda de Peso       | Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.    |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | Condicionamento     | Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.       |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | Resistencia         | Exercícios feitos para aumentar a capacidade de resistencia e capacidade muscular.      |
 
