@@ -32,7 +32,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 
 ## 📝 Introdução
 
-Este projeto visa criar um assistente de personal trainer automatizado que ajuda a gerar treinos personalizados. O usuário fornecerá informações como o biotipo corporal, a quantidade de dias disponíveis para treinar na semana e o tipo de exercício preferido, e o assistente gerará um plano de treino ideal com base nessas informações.
+Este projeto visa criar um assistente de personal trainer automatizado que ajuda a gerar treinos personalizados. O usuário fornecerá informações como o biotipo corporal, a quantidade de dias disponíveis para treinar na semana, tipo de exercício preferido e objetivo final dos treinos, e o assistente gerará um plano de treino ideal com base nessas informações.
 
 ---
 
@@ -110,11 +110,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 A quarta regra é determinar o melhor treinamento visando atender o objetivo. Dependendo do objetivo número de dias, o treino sugerido pode variar:
 
-| **Imagem**                                                     | **Objetivo**        | **Comentário**                                                                          |
-| -------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------- |
-| <img src=".github/assets/coracao.png" width="50" height="50">  | Perda de Peso       | Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.    |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | Condicionamento     | Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.       |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | Resistencia         | Exercícios feitos para aumentar a capacidade de resistencia e capacidade muscular.      |
+| **Imagem**                                                            | **Objetivo**        | **Comentário**                                                                          |
+| ----------------------------------------------------------------------| ------------------- | --------------------------------------------------------------------------------------- |
+| <img src=".github/assets/coracao.png" width="50" height="50">         | Perda de Peso       | Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.    |
+| <img src=".github/assets/condicionamento.png" width="50" height="50"> | Condicionamento     | Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.       |
+| <img src=".github/assets/resistencia.png" width="50" height="50">     | Resistencia         | Exercícios feitos para aumentar a capacidade de resistencia e capacidade muscular.      |
 
 - **Perda de Peso**:Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.
 - **Condicionamento**: Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.  
