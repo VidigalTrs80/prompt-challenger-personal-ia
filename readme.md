@@ -158,23 +158,20 @@ Voce vai me ajudar a montar um treino ideal, baseado nas 04 variaveis abaixo:
 # Regras
 
 **Regra01: biotipo**
-
-identificar qual o tipo informado na Area de Variaveis acima tipo corporal vai ser, conforme lista de itens abaixo:
+Identificar qual o tipo informado na Area de Variaveis acima tipo corporal vai ser, conforme lista de itens abaixo:
 - Ectomorfo	Corpo mais magro, difícil ganhar peso e massa muscular.
 - Mesomorfo	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
 - Endomorfo	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
 **Regra02: frequencia**
-
-dependendo da quantidade minima de dias informado na Area de Variaveis, 
+Dependendo da quantidade minima de dias informado na Area de Variaveis, 
 criar opções de treino, conforme lista abaixo:
 1 dia Treino Full Body
 3 dias Treino ABC
 5 dias Treino ABCDE
 
 **Regra03: tipo**
-
-opções de treinamento que podem ser aplicados, conforme lista abaixo:
+Opções de treinamento que podem ser aplicados, conforme lista abaixo:
 - Funcional	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
 - Maquinário	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
 - Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
@@ -182,8 +179,7 @@ opções de treinamento que podem ser aplicados, conforme lista abaixo:
 - HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 **Regra04: objetivo**
-
-opções de objetivo para os treinos, conforme meta desejada: 
+Opções de objetivo para os treinos, conforme meta desejada: 
 - Perda de Peso	Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.
 - Condicionamento Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.
 - Resistencia Exercícios feitos para aumentar a capacidade de resistencia muscular.
