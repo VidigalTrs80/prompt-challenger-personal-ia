@@ -106,7 +106,7 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
-## Objetivo do Treino
+## 🏋️ Objetivo dos Exercícios
 
 A quarta regra é determinar o melhor treinamento visando atender o objetivo. Dependendo do objetivo número de dias, o treino sugerido pode variar:
 
