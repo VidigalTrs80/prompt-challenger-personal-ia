@@ -23,6 +23,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
+- [🏋️ Objetivo dos Exercícios](#️-objetivo-dos-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
@@ -105,7 +106,7 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
-##  Objetivo do Treino
+##Objetivo do Treino
 
 A quarta regra é determinar o melhor treinamento visando atender o objetivo. Dependendo do objetivo número de dias, o treino sugerido pode variar:
 
