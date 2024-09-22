@@ -167,9 +167,9 @@ Identificar qual o tipo informado na Area de Variaveis acima tipo corporal vai s
 Dependendo da quantidade minima de dias informado na Area de Variaveis, 
 criar opções de treino, conforme lista abaixo:
 
-1 dia Treino Full Body, 
-3 dias Treino ABC, 
-5 dias Treino ABCDE
+- 1 dia Treino Full Body.
+- 3 dias Treino ABC.
+- 5 dias Treino ABCDE.
 
 **Regra03: tipo**
 Opções de treinamento que podem ser aplicados, conforme lista abaixo:
