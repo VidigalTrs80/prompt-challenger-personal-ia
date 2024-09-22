@@ -102,12 +102,31 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
+
+---
+
+##  Objetivo do Treino
+
+A quarta regra é determinar o melhor treinamento visando atender o objetivo. Dependendo do objetivo número de dias, o treino sugerido pode variar:
+
+| **Imagem**                                                     | **Objetivo**        | **Comentário**                                                                          |
+| -------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------- |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | Perda de Peso       | Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.    |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | Condicionamento     | Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.       |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | Resistencia         | Exercícios feitos para aumentar a capacidade de resistencia e capacidade muscular.      |
+
+- **Perda de Peso**:Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.
+- **Condicionamento**: Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.  
+- **Resistencia**: Exercícios feitos para aumentar a capacidade de resistencia e capacidade muscular. 
+
+---
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Selecione o objetivo final do treinamento** que ira realizar para seus objetivos.
+5. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
