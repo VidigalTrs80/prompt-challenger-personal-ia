@@ -180,9 +180,9 @@ Opções de treinamento que podem ser aplicados, conforme lista abaixo:
 
 **Regra04: objetivo**
 Opções de objetivo para os treinos, conforme meta desejada: 
-- Perda de Peso	Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.
-- Condicionamento Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.
-- Resistencia Exercícios feitos para aumentar a capacidade de resistencia muscular.
+- Perda de Peso:    Exercícios que diminuam o peso corporal, usando movimentos naturais e de musculação.
+- Condicionamento:    Exercícios feitos em máquinas/musculação, com foco melhor condicionamento fisico.
+- Resistencia:    Exercícios feitos para aumentar a capacidade de resistencia muscular.
 
 
 # Resultado esperado
